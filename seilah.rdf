@@ -1,0 +1,2287 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+        xmlns:rss="http://purl.org/rss/1.0/"
+        xmlns:foaf="http://xmlns.com/foaf/0.1/"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:wot="http://xmlns.com/wot/0.1/"
+>
+
+
+
+<foaf:PersonalProfileDocument rdf:about="http://www.w3.org/">
+  <foaf:maker rdf:resource="#CVs_Alunos_2015" />
+  <foaf:primaryTopic rdf:resource="#CVs_Alunos_2015" />
+</foaf:PersonalProfileDocument>
+<!-- GROUP -->
+
+  <foaf:Group rdf:ID="Alunos_IME_2015">
+    <foaf:name>Alunos da turma 2015 de Graduacao em Engenharia da Computacao do IME</foaf:name>
+    
+    <!-- Members -->
+        <foaf:member rdf:resource="#ARTHUR"/>
+        <foaf:member rdf:resource="#BRUNO"/>
+        <foaf:member rdf:resource="#CARLOS"/>
+        <foaf:member rdf:resource="#EDWARD"/>
+        <foaf:member rdf:resource="#FELIPE"/>
+        <foaf:member rdf:resource="#EUROPE"/>
+        <foaf:member rdf:resource="#LUIS"/>
+        <foaf:member rdf:resource="#JAN"/>
+        <foaf:member rdf:resource="#JOÃO"/>
+        <foaf:member rdf:resource="#JONAS"/>
+        <foaf:member rdf:resource="#WILLIAN"/>
+        <foaf:member rdf:resource="#MAIARA"/>
+        <foaf:member rdf:resource="#MARCELLA"/>
+        <foaf:member rdf:resource="#MARCOS"/>
+        <foaf:member rdf:resource="#MATHEUS"/>
+        <foaf:member rdf:resource="#IVO"/>
+        <foaf:member rdf:resource="#OSCAR"/>
+        <foaf:member rdf:resource="#ANTONIO"/>
+        <foaf:member rdf:resource="#MATHEUS"/>
+        <foaf:member rdf:resource="#VICTOR"/>
+        <foaf:member rdf:resource="#YAGO"/>
+        <foaf:member rdf:resource="#CAMILA"/>
+        <foaf:member rdf:resource="#DOUGLAS"/>
+        <foaf:member rdf:resource="#VINÍCIUS"/>
+
+	
+</foaf:Group>
+
+
+<foaf:Person rdf:ID="ARTHUR">
+<foaf:name>ARTHUR FERNANDES ARAUJO</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>FERNANDES ARAUJO</foaf:familyName>
+		  <foaf:givenName>ARTHUR</foaf:givenName>
+		  <foaf:mbox_sha1sum>0e8fcd72d534bbe10a0e90e54c3df1f48916cbcc</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCELLA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCELLA GUARNIERI MERCÊS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VINÍCIUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VINÍCIUS GOMES PEREIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="YAGO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>YAGO GUIMARÃES COIMBRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="LUIS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>LUIS HELDER LIMA BARBOSA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS VANZAN PIMENTEL DE OLIVEIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS LEAL ASSUNCAO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="BRUNO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>BRUNO RAMOS CAMPANA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="EDWARD">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>EDWARD CÉSPEDES CARAGEORGE</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JONAS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JONAS ROCHA LIMA AMARO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="OSCAR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>OSCAR MARTINS WANDERLEY FILHO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VICTOR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VICTOR BRAMIGK</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CAMILA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CAMILA ANTONACCIO WANOUS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="IVO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>IVO GABRIEL DE ABREU NICOLAIO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCOS DE AUGUSTINIS VALLE M. DA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="DOUGLAS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>DOUGLAS DE REGO PAULA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CARLOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CARLOS HENRIQUE PIMENTEL PAIVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MAIARA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MAIARA BARROSO CARDOSO REINALDO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="ANTONIO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>ANTONIO LUIS SOMBRA DE MEDEIROS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JAN">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JAN LUCAS DE LIMA SEGRE</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="BRUNO">
+<foaf:name>BRUNO RAMOS CAMPANA SILVA</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>RAMOS CAMPANA SILVA</foaf:familyName>
+		  <foaf:givenName>BRUNO</foaf:givenName>
+		  <foaf:mbox_sha1sum>356f3f271569a26b9887cc3650a3c9311043a28a</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="YAGO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>YAGO GUIMARÃES COIMBRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="OSCAR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>OSCAR MARTINS WANDERLEY FILHO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="IVO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>IVO GABRIEL DE ABREU NICOLAIO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CAMILA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CAMILA ANTONACCIO WANOUS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="CARLOS">
+<foaf:name>CARLOS HENRIQUE PIMENTEL PAIVA</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>PIMENTEL PAIVA</foaf:familyName>
+		  <foaf:givenName>CARLOS HENRIQUE</foaf:givenName>
+		  <foaf:mbox_sha1sum>768772b49aaa3b020b27cf5739ecac3c2b2ea837</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="EUROPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>EUROPE MORAES GORITO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="FELIPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>FELIPE LINS COSTA ALMEIDA CASTRO MACHADO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CAMILA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CAMILA ANTONACCIO WANOUS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS VANZAN PIMENTEL DE OLIVEIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="BRUNO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>BRUNO RAMOS CAMPANA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VICTOR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VICTOR BRAMIGK</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="IVO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>IVO GABRIEL DE ABREU NICOLAIO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="WILLIAN">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>WILLIAN ATSUKI KANASHIRO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="YAGO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>YAGO GUIMARÃES COIMBRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MAIARA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MAIARA BARROSO CARDOSO REINALDO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="LUIS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>LUIS HELDER LIMA BARBOSA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCELLA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCELLA GUARNIERI MERCÊS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JOÃO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JOÃO LUIZ DO PRADO NETO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VINÍCIUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VINÍCIUS GOMES PEREIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="EDWARD">
+<foaf:name>EDWARD CÉSPEDES CARAGEORGE</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>CÉSPEDES CARAGEORGE</foaf:familyName>
+		  <foaf:givenName>EDWARD</foaf:givenName>
+		  <foaf:mbox_sha1sum>00c3e1f88ab68feaf2ea99c9537229fd10876420</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="IVO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>IVO GABRIEL DE ABREU NICOLAIO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCELLA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCELLA GUARNIERI MERCÊS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCOS DE AUGUSTINIS VALLE M. DA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MAIARA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MAIARA BARROSO CARDOSO REINALDO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JAN">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JAN LUCAS DE LIMA SEGRE</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="YAGO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>YAGO GUIMARÃES COIMBRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="ARTHUR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>ARTHUR FERNANDES ARAUJO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CAMILA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CAMILA ANTONACCIO WANOUS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="FELIPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>FELIPE LINS COSTA ALMEIDA CASTRO MACHADO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VICTOR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VICTOR BRAMIGK</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="DOUGLAS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>DOUGLAS DE REGO PAULA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS LEAL ASSUNCAO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="FELIPE">
+<foaf:name>FELIPE LINS COSTA ALMEIDA CASTRO MACHADO</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>LINS COSTA ALMEIDA CASTRO MACHADO</foaf:familyName>
+		  <foaf:givenName>FELIPE</foaf:givenName>
+		  <foaf:mbox_sha1sum>db10d8c37e9f9778319c0c224db2b23c9df5834b</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="EDWARD">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>EDWARD CÉSPEDES CARAGEORGE</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VINÍCIUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VINÍCIUS GOMES PEREIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JONAS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JONAS ROCHA LIMA AMARO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="IVO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>IVO GABRIEL DE ABREU NICOLAIO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="LUIS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>LUIS HELDER LIMA BARBOSA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CAMILA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CAMILA ANTONACCIO WANOUS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="YAGO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>YAGO GUIMARÃES COIMBRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="EUROPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>EUROPE MORAES GORITO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCOS DE AUGUSTINIS VALLE M. DA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JAN">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JAN LUCAS DE LIMA SEGRE</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="ARTHUR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>ARTHUR FERNANDES ARAUJO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="WILLIAN">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>WILLIAN ATSUKI KANASHIRO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS LEAL ASSUNCAO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS VANZAN PIMENTEL DE OLIVEIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CARLOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CARLOS HENRIQUE PIMENTEL PAIVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="DOUGLAS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>DOUGLAS DE REGO PAULA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="BRUNO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>BRUNO RAMOS CAMPANA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VICTOR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VICTOR BRAMIGK</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JOÃO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JOÃO LUIZ DO PRADO NETO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="EUROPE">
+<foaf:name>EUROPE MORAES GORITO</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>MORAES GORITO</foaf:familyName>
+		  <foaf:givenName>EUROPE</foaf:givenName>
+		  <foaf:mbox_sha1sum>7985bcc4d18ab69a7e6d4e0dd7e247205051cbfb</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS VANZAN PIMENTEL DE OLIVEIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VINÍCIUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VINÍCIUS GOMES PEREIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="ARTHUR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>ARTHUR FERNANDES ARAUJO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="IVO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>IVO GABRIEL DE ABREU NICOLAIO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCELLA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCELLA GUARNIERI MERCÊS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CAMILA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CAMILA ANTONACCIO WANOUS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="OSCAR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>OSCAR MARTINS WANDERLEY FILHO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JAN">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JAN LUCAS DE LIMA SEGRE</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS LEAL ASSUNCAO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCOS DE AUGUSTINIS VALLE M. DA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MAIARA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MAIARA BARROSO CARDOSO REINALDO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JOÃO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JOÃO LUIZ DO PRADO NETO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="YAGO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>YAGO GUIMARÃES COIMBRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="DOUGLAS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>DOUGLAS DE REGO PAULA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="FELIPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>FELIPE LINS COSTA ALMEIDA CASTRO MACHADO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JONAS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JONAS ROCHA LIMA AMARO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CARLOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CARLOS HENRIQUE PIMENTEL PAIVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="BRUNO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>BRUNO RAMOS CAMPANA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="ANTONIO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>ANTONIO LUIS SOMBRA DE MEDEIROS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VICTOR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VICTOR BRAMIGK</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="LUIS">
+<foaf:name>LUIS HELDER LIMA BARBOSA</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>LIMA BARBOSA</foaf:familyName>
+		  <foaf:givenName>LUIS HELDER</foaf:givenName>
+		  <foaf:mbox_sha1sum>77c8f1e5a2d0bb25d796044b2c3ad9251bdc720e</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="YAGO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>YAGO GUIMARÃES COIMBRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="WILLIAN">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>WILLIAN ATSUKI KANASHIRO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JONAS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JONAS ROCHA LIMA AMARO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="JAN">
+<foaf:name>JAN LUCAS DE LIMA SEGRE</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>DE LIMA SEGRE</foaf:familyName>
+		  <foaf:givenName>JAN LUCAS</foaf:givenName>
+		  <foaf:mbox_sha1sum>927036d4b2096297f621c8d55283e058cf0010b5</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCELLA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCELLA GUARNIERI MERCÊS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCOS DE AUGUSTINIS VALLE M. DA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="BRUNO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>BRUNO RAMOS CAMPANA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="DOUGLAS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>DOUGLAS DE REGO PAULA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="ARTHUR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>ARTHUR FERNANDES ARAUJO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="EDWARD">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>EDWARD CÉSPEDES CARAGEORGE</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="YAGO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>YAGO GUIMARÃES COIMBRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="FELIPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>FELIPE LINS COSTA ALMEIDA CASTRO MACHADO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MAIARA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MAIARA BARROSO CARDOSO REINALDO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="IVO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>IVO GABRIEL DE ABREU NICOLAIO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="JOÃO">
+<foaf:name>JOÃO LUIZ DO PRADO NETO</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>DO PRADO NETO</foaf:familyName>
+		  <foaf:givenName>JOÃO LUIZ</foaf:givenName>
+		  <foaf:mbox_sha1sum>3a7996514540f8958a6e6e10842004d142b5f62b</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="WILLIAN">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>WILLIAN ATSUKI KANASHIRO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="EDWARD">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>EDWARD CÉSPEDES CARAGEORGE</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="FELIPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>FELIPE LINS COSTA ALMEIDA CASTRO MACHADO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JONAS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JONAS ROCHA LIMA AMARO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCOS DE AUGUSTINIS VALLE M. DA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCELLA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCELLA GUARNIERI MERCÊS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS LEAL ASSUNCAO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CARLOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CARLOS HENRIQUE PIMENTEL PAIVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="YAGO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>YAGO GUIMARÃES COIMBRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="BRUNO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>BRUNO RAMOS CAMPANA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VINÍCIUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VINÍCIUS GOMES PEREIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="OSCAR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>OSCAR MARTINS WANDERLEY FILHO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CAMILA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CAMILA ANTONACCIO WANOUS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="IVO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>IVO GABRIEL DE ABREU NICOLAIO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="ANTONIO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>ANTONIO LUIS SOMBRA DE MEDEIROS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="JONAS">
+<foaf:name>JONAS ROCHA LIMA AMARO</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>ROCHA LIMA AMARO</foaf:familyName>
+		  <foaf:givenName>JONAS</foaf:givenName>
+		  <foaf:mbox_sha1sum>81017342ec02dde11d0bb57a915350f10feba2d8</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCOS DE AUGUSTINIS VALLE M. DA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VINÍCIUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VINÍCIUS GOMES PEREIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VICTOR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VICTOR BRAMIGK</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JOÃO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JOÃO LUIZ DO PRADO NETO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS VANZAN PIMENTEL DE OLIVEIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCELLA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCELLA GUARNIERI MERCÊS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="EUROPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>EUROPE MORAES GORITO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CARLOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CARLOS HENRIQUE PIMENTEL PAIVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="FELIPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>FELIPE LINS COSTA ALMEIDA CASTRO MACHADO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MAIARA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MAIARA BARROSO CARDOSO REINALDO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="BRUNO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>BRUNO RAMOS CAMPANA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="LUIS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>LUIS HELDER LIMA BARBOSA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CAMILA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CAMILA ANTONACCIO WANOUS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="WILLIAN">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>WILLIAN ATSUKI KANASHIRO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="IVO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>IVO GABRIEL DE ABREU NICOLAIO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="ANTONIO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>ANTONIO LUIS SOMBRA DE MEDEIROS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="EDWARD">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>EDWARD CÉSPEDES CARAGEORGE</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS LEAL ASSUNCAO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="YAGO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>YAGO GUIMARÃES COIMBRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JAN">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JAN LUCAS DE LIMA SEGRE</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="WILLIAN">
+<foaf:name>WILLIAN ATSUKI KANASHIRO</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>ATSUKI KANASHIRO</foaf:familyName>
+		  <foaf:givenName>WILLIAN</foaf:givenName>
+		  <foaf:mbox_sha1sum>8f8cff249964bc9238575c7361739f2f9e3d7a7d</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JOÃO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JOÃO LUIZ DO PRADO NETO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="FELIPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>FELIPE LINS COSTA ALMEIDA CASTRO MACHADO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="LUIS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>LUIS HELDER LIMA BARBOSA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="MAIARA">
+<foaf:name>MAIARA BARROSO CARDOSO REINALDO</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>BARROSO CARDOSO REINALDO</foaf:familyName>
+		  <foaf:givenName>MAIARA</foaf:givenName>
+		  <foaf:mbox_sha1sum>06526b888d293492e4d3aa93ac56a595af9e2dc1</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CARLOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CARLOS HENRIQUE PIMENTEL PAIVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCOS DE AUGUSTINIS VALLE M. DA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="BRUNO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>BRUNO RAMOS CAMPANA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS VANZAN PIMENTEL DE OLIVEIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS LEAL ASSUNCAO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="LUIS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>LUIS HELDER LIMA BARBOSA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CAMILA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CAMILA ANTONACCIO WANOUS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="MARCELLA">
+<foaf:name>MARCELLA GUARNIERI MERCÊS</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>GUARNIERI MERCÊS</foaf:familyName>
+		  <foaf:givenName>MARCELLA</foaf:givenName>
+		  <foaf:mbox_sha1sum>fc9ad40e101b12e0133f7c66ad6ee52187912642</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="EUROPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>EUROPE MORAES GORITO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="FELIPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>FELIPE LINS COSTA ALMEIDA CASTRO MACHADO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VICTOR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VICTOR BRAMIGK</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="MARCOS">
+<foaf:name>MARCOS DE AUGUSTINIS VALLE M. DA SILVA</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>DE AUGUSTINIS VALLE M. DA SILVA</foaf:familyName>
+		  <foaf:givenName>MARCOS</foaf:givenName>
+		  <foaf:mbox_sha1sum>9b8d7fb610436bf05a61ba1ad940e5ad8dfda4b8</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="IVO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>IVO GABRIEL DE ABREU NICOLAIO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VICTOR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VICTOR BRAMIGK</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="WILLIAN">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>WILLIAN ATSUKI KANASHIRO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS VANZAN PIMENTEL DE OLIVEIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="EDWARD">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>EDWARD CÉSPEDES CARAGEORGE</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JONAS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JONAS ROCHA LIMA AMARO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="YAGO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>YAGO GUIMARÃES COIMBRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="FELIPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>FELIPE LINS COSTA ALMEIDA CASTRO MACHADO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCELLA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCELLA GUARNIERI MERCÊS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VINÍCIUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VINÍCIUS GOMES PEREIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="MATHEUS">
+<foaf:name>MATHEUS LEAL ASSUNCAO</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>LEAL ASSUNCAO</foaf:familyName>
+		  <foaf:givenName>MATHEUS</foaf:givenName>
+		  <foaf:mbox_sha1sum>8deb8f7946349305d928de89efc8a139cf1f33d7</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="IVO">
+<foaf:name>IVO GABRIEL DE ABREU NICOLAIO</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>DE ABREU NICOLAIO</foaf:familyName>
+		  <foaf:givenName>IVO GABRIEL</foaf:givenName>
+		  <foaf:mbox_sha1sum>78603f6c0e508fc660db8a0112fce019e4715031</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="LUIS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>LUIS HELDER LIMA BARBOSA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CARLOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CARLOS HENRIQUE PIMENTEL PAIVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="YAGO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>YAGO GUIMARÃES COIMBRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JOÃO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JOÃO LUIZ DO PRADO NETO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CAMILA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CAMILA ANTONACCIO WANOUS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS LEAL ASSUNCAO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MAIARA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MAIARA BARROSO CARDOSO REINALDO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="OSCAR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>OSCAR MARTINS WANDERLEY FILHO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VICTOR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VICTOR BRAMIGK</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="DOUGLAS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>DOUGLAS DE REGO PAULA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="OSCAR">
+<foaf:name>OSCAR MARTINS WANDERLEY FILHO</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>MARTINS WANDERLEY FILHO</foaf:familyName>
+		  <foaf:givenName>OSCAR</foaf:givenName>
+		  <foaf:mbox_sha1sum>11f0158b45a05d7def7f54d47dd5767af0ee56b5</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="FELIPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>FELIPE LINS COSTA ALMEIDA CASTRO MACHADO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="WILLIAN">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>WILLIAN ATSUKI KANASHIRO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCOS DE AUGUSTINIS VALLE M. DA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="BRUNO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>BRUNO RAMOS CAMPANA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="ARTHUR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>ARTHUR FERNANDES ARAUJO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="LUIS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>LUIS HELDER LIMA BARBOSA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MAIARA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MAIARA BARROSO CARDOSO REINALDO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CAMILA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CAMILA ANTONACCIO WANOUS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="IVO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>IVO GABRIEL DE ABREU NICOLAIO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="ANTONIO">
+<foaf:name>ANTONIO LUIS SOMBRA DE MEDEIROS</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>SOMBRA DE MEDEIROS</foaf:familyName>
+		  <foaf:givenName>ANTONIO LUIS</foaf:givenName>
+		  <foaf:mbox_sha1sum>f230947ce25d97b56636b26c9282a2d933e63547</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="EDWARD">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>EDWARD CÉSPEDES CARAGEORGE</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="ARTHUR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>ARTHUR FERNANDES ARAUJO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="BRUNO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>BRUNO RAMOS CAMPANA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="LUIS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>LUIS HELDER LIMA BARBOSA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="IVO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>IVO GABRIEL DE ABREU NICOLAIO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JONAS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JONAS ROCHA LIMA AMARO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JOÃO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JOÃO LUIZ DO PRADO NETO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCELLA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCELLA GUARNIERI MERCÊS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="WILLIAN">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>WILLIAN ATSUKI KANASHIRO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="DOUGLAS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>DOUGLAS DE REGO PAULA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CARLOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CARLOS HENRIQUE PIMENTEL PAIVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS LEAL ASSUNCAO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VICTOR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VICTOR BRAMIGK</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCOS DE AUGUSTINIS VALLE M. DA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="FELIPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>FELIPE LINS COSTA ALMEIDA CASTRO MACHADO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="EUROPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>EUROPE MORAES GORITO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CAMILA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CAMILA ANTONACCIO WANOUS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MAIARA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MAIARA BARROSO CARDOSO REINALDO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="OSCAR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>OSCAR MARTINS WANDERLEY FILHO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="MATHEUS">
+<foaf:name>MATHEUS VANZAN PIMENTEL DE OLIVEIRA</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>VANZAN PIMENTEL DE OLIVEIRA</foaf:familyName>
+		  <foaf:givenName>MATHEUS</foaf:givenName>
+		  <foaf:mbox_sha1sum>ae67967385453afed6ba09d7f6318899c7ef1502</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCELLA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCELLA GUARNIERI MERCÊS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CARLOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CARLOS HENRIQUE PIMENTEL PAIVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="OSCAR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>OSCAR MARTINS WANDERLEY FILHO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JAN">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JAN LUCAS DE LIMA SEGRE</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCOS DE AUGUSTINIS VALLE M. DA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JOÃO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JOÃO LUIZ DO PRADO NETO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="EUROPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>EUROPE MORAES GORITO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="WILLIAN">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>WILLIAN ATSUKI KANASHIRO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="ANTONIO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>ANTONIO LUIS SOMBRA DE MEDEIROS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="EDWARD">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>EDWARD CÉSPEDES CARAGEORGE</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS LEAL ASSUNCAO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MAIARA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MAIARA BARROSO CARDOSO REINALDO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CAMILA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CAMILA ANTONACCIO WANOUS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VINÍCIUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VINÍCIUS GOMES PEREIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="IVO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>IVO GABRIEL DE ABREU NICOLAIO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JONAS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JONAS ROCHA LIMA AMARO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="FELIPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>FELIPE LINS COSTA ALMEIDA CASTRO MACHADO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VICTOR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VICTOR BRAMIGK</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="VICTOR">
+<foaf:name>VICTOR BRAMIGK</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>BRAMIGK</foaf:familyName>
+		  <foaf:givenName>VICTOR</foaf:givenName>
+		  <foaf:mbox_sha1sum>2832b75a605a5575d5977c56a7d920ce2f95773a</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS VANZAN PIMENTEL DE OLIVEIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS LEAL ASSUNCAO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JONAS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JONAS ROCHA LIMA AMARO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="BRUNO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>BRUNO RAMOS CAMPANA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CARLOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CARLOS HENRIQUE PIMENTEL PAIVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="YAGO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>YAGO GUIMARÃES COIMBRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="ARTHUR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>ARTHUR FERNANDES ARAUJO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCOS DE AUGUSTINIS VALLE M. DA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="EUROPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>EUROPE MORAES GORITO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="WILLIAN">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>WILLIAN ATSUKI KANASHIRO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="IVO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>IVO GABRIEL DE ABREU NICOLAIO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MAIARA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MAIARA BARROSO CARDOSO REINALDO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="DOUGLAS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>DOUGLAS DE REGO PAULA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="OSCAR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>OSCAR MARTINS WANDERLEY FILHO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="YAGO">
+<foaf:name>YAGO GUIMARÃES COIMBRA</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>GUIMARÃES COIMBRA</foaf:familyName>
+		  <foaf:givenName>YAGO</foaf:givenName>
+		  <foaf:mbox_sha1sum>c9dc31a4fbdd4be12cd305670130569bac79860b</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS VANZAN PIMENTEL DE OLIVEIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="IVO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>IVO GABRIEL DE ABREU NICOLAIO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="WILLIAN">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>WILLIAN ATSUKI KANASHIRO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MAIARA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MAIARA BARROSO CARDOSO REINALDO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS LEAL ASSUNCAO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JOÃO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JOÃO LUIZ DO PRADO NETO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VINÍCIUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VINÍCIUS GOMES PEREIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="ARTHUR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>ARTHUR FERNANDES ARAUJO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="EUROPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>EUROPE MORAES GORITO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="EDWARD">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>EDWARD CÉSPEDES CARAGEORGE</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CARLOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CARLOS HENRIQUE PIMENTEL PAIVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="CAMILA">
+<foaf:name>CAMILA ANTONACCIO WANOUS</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>ANTONACCIO WANOUS</foaf:familyName>
+		  <foaf:givenName>CAMILA</foaf:givenName>
+		  <foaf:mbox_sha1sum>8a63849c4750ad9b2c228ee84d80e2bfec3f7265</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="LUIS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>LUIS HELDER LIMA BARBOSA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JOÃO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JOÃO LUIZ DO PRADO NETO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="DOUGLAS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>DOUGLAS DE REGO PAULA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS LEAL ASSUNCAO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JAN">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JAN LUCAS DE LIMA SEGRE</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS VANZAN PIMENTEL DE OLIVEIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="BRUNO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>BRUNO RAMOS CAMPANA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="IVO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>IVO GABRIEL DE ABREU NICOLAIO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VINÍCIUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VINÍCIUS GOMES PEREIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCOS DE AUGUSTINIS VALLE M. DA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="OSCAR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>OSCAR MARTINS WANDERLEY FILHO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="YAGO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>YAGO GUIMARÃES COIMBRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MAIARA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MAIARA BARROSO CARDOSO REINALDO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CARLOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CARLOS HENRIQUE PIMENTEL PAIVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="DOUGLAS">
+<foaf:name>DOUGLAS DE REGO PAULA</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>DE REGO PAULA</foaf:familyName>
+		  <foaf:givenName>DOUGLAS</foaf:givenName>
+		  <foaf:mbox_sha1sum>30545b4b24e2ffc1437c3a79a944d17b5f0e7cd2</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VINÍCIUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VINÍCIUS GOMES PEREIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VICTOR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VICTOR BRAMIGK</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="ANTONIO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>ANTONIO LUIS SOMBRA DE MEDEIROS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS LEAL ASSUNCAO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="YAGO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>YAGO GUIMARÃES COIMBRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCOS DE AUGUSTINIS VALLE M. DA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="EUROPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>EUROPE MORAES GORITO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JAN">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JAN LUCAS DE LIMA SEGRE</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JONAS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JONAS ROCHA LIMA AMARO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCELLA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCELLA GUARNIERI MERCÊS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS VANZAN PIMENTEL DE OLIVEIRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+<foaf:Person rdf:ID="VINÍCIUS">
+<foaf:name>VINÍCIUS GOMES PEREIRA</foaf:name>
+		  <foaf:title>Aluno(a)</foaf:title>
+		  <foaf:familyName>GOMES PEREIRA</foaf:familyName>
+		  <foaf:givenName>VINÍCIUS</foaf:givenName>
+		  <foaf:mbox_sha1sum>7d1ee33373a1a31616552b88d3f24b6cc9a8cd7b</foaf:mbox_sha1sum>
+		  <foaf:workplaceHomePage rdf:resource="http://www.ime.eb.br/" />
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JOÃO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JOÃO LUIZ DO PRADO NETO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MAIARA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MAIARA BARROSO CARDOSO REINALDO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="OSCAR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>OSCAR MARTINS WANDERLEY FILHO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="VICTOR">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>VICTOR BRAMIGK</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="WILLIAN">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>WILLIAN ATSUKI KANASHIRO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JONAS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JONAS ROCHA LIMA AMARO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCELLA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCELLA GUARNIERI MERCÊS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MATHEUS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MATHEUS LEAL ASSUNCAO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="EDWARD">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>EDWARD CÉSPEDES CARAGEORGE</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="YAGO">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>YAGO GUIMARÃES COIMBRA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="MARCOS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>MARCOS DE AUGUSTINIS VALLE M. DA SILVA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="FELIPE">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>FELIPE LINS COSTA ALMEIDA CASTRO MACHADO</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="JAN">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>JAN LUCAS DE LIMA SEGRE</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="LUIS">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>LUIS HELDER LIMA BARBOSA</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+<foaf:knows>
+		  <foaf:Person rdf:ID="CAMILA">
+			  <foaf:title>Aluno(a)</foaf:title>
+			  <foaf:name>CAMILA ANTONACCIO WANOUS</foaf:name>
+			</foaf:Person>
+		</foaf:knows>
+
+</foaf:Person>
+
+
+
+
+<!-- Documents -->
+
+
+ <!-- digital signature for this file -->
+ <rdf:Description rdf:about="Assinatura">
+   <wot:assurance rdf:resource="webwho.xrdf.asc" />
+ </rdf:Description>
+
+
+</rdf:RDF>
