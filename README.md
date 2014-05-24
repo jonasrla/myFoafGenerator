@@ -1,0 +1,4 @@
+myFoafGenerator
+===============
+
+Foaf Generator
